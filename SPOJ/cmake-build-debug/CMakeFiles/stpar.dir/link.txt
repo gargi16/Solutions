@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.3.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\stpar.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\stpar.dir/objects.a @CMakeFiles\stpar.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\stpar.dir/objects.a -Wl,--no-whole-archive  -o stpar.exe -Wl,--out-implib,libstpar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\stpar.dir\linklibs.rsp

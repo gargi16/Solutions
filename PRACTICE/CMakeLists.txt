@@ -1,0 +1,36 @@
+cmake_minimum_required(VERSION 3.9)
+project(PRACTICE)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(PRACTICE main.cpp dfs.cpp dp1a.cpp oddEvenArrays.cpp
+        cardremoval.cpp stringencryption.cpp rotationqueries.cpp xorqueries.cpp
+        xorqueries1.cpp tlg.cpp voters.cpp ZCO12002.cpp ZCO14003.cpp
+        nCr.cpp mergeSort.cpp alice.cpp INOI1201.cpp COOK82C.cpp ZCO14002.cpp ZCO12004.cpp
+        INOI1301.cpp minimumJumps.cpp ZCO15002.cpp ZCO14001.cpp pcycle.cpp INOI1601.cpp INOI1601A.cpp countingLeaf.cpp christmasGifts.cpp)
+add_executable(dfs dfs.cpp)
+add_executable(dp1a dp1a.cpp)
+add_executable(oddEvenArrays oddEvenArrays.cpp)
+add_executable(cardremoval cardremoval.cpp)
+add_executable(stringencryption stringencryption.cpp)
+add_executable(rotationqueries rotationqueries.cpp)
+add_executable(xorqueries1 xorqueries1.cpp)
+add_executable(tlg tlg.cpp)
+add_executable(voters voters.cpp)
+add_executable(ZCO12002 ZCO12002.cpp)
+add_executable(ZCO14003 ZCO14003.cpp)
+add_executable(nCr nCr.cpp)
+add_executable(mergeSort mergeSort.cpp)
+add_executable(INOI1201 INOI1201.cpp)
+add_executable(COOK82C COOK82C.cpp)
+add_executable(ZCO14002 ZCO14002.cpp)
+add_executable(ZCO12004 ZCO12004.cpp)
+add_executable(INOI1301 INOI1301.cpp)
+add_executable(minimumJumps minimumJumps.cpp)
+add_executable(ZCO15002 ZCO15002.cpp)
+add_executable(ZCO14001 ZCO14001.cpp)
+add_executable(pcycle pcycle.cpp)
+add_executable(INOI1601 INOI1601.cpp)
+add_executable(INOI1601A INOI1601A.cpp)
+add_executable(countingLeaf countingLeaf.cpp)
+add_executable(christmasGifts christmasGifts.cpp)

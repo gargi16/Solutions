@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/PRACTICE.dir/main.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/dfs.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/dp1a.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/oddEvenArrays.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/cardremoval.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/stringencryption.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/rotationqueries.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/xorqueries.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/xorqueries1.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/tlg.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/voters.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO12002.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO14003.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/nCr.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/mergeSort.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/alice.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/INOI1201.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/COOK82C.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO14002.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO12004.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/INOI1301.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/minimumJumps.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO15002.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/ZCO14001.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/pcycle.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/INOI1601.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/INOI1601A.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/countingLeaf.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/christmasGifts.cpp.obj"
+  "PRACTICE.pdb"
+  "PRACTICE.exe"
+  "PRACTICE.exe.manifest"
+  "libPRACTICE.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/PRACTICE.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
