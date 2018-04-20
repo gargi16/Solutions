@@ -7,7 +7,7 @@ add_executable(PRACTICE main.cpp dfs.cpp dp1a.cpp oddEvenArrays.cpp
         cardremoval.cpp stringencryption.cpp rotationqueries.cpp xorqueries.cpp
         xorqueries1.cpp tlg.cpp voters.cpp ZCO12002.cpp ZCO14003.cpp
         nCr.cpp mergeSort.cpp alice.cpp INOI1201.cpp COOK82C.cpp ZCO14002.cpp ZCO12004.cpp
-        INOI1301.cpp minimumJumps.cpp ZCO15002.cpp ZCO14001.cpp pcycle.cpp INOI1601.cpp INOI1601A.cpp countingLeaf.cpp christmasGifts.cpp)
+        INOI1301.cpp minimumJumps.cpp ZCO15002.cpp ZCO14001.cpp pcycle.cpp INOI1601.cpp INOI1601A.cpp countingLeaf.cpp coinChange.cpp bfs_shortestReach.cpp absolutePermutation.cpp gridSearch.cpp compiler.cpp chefwork.cpp wghtnum.cpp avgpr.cpp goodpref.cpp avgpr1.cpp goodpref1.cpp reverseLL.cpp)
 add_executable(dfs dfs.cpp)
 add_executable(dp1a dp1a.cpp)
 add_executable(oddEvenArrays oddEvenArrays.cpp)
@@ -33,4 +33,12 @@ add_executable(pcycle pcycle.cpp)
 add_executable(INOI1601 INOI1601.cpp)
 add_executable(INOI1601A INOI1601A.cpp)
 add_executable(countingLeaf countingLeaf.cpp)
-add_executable(christmasGifts christmasGifts.cpp)
+add_executable(coinChange coinChange.cpp)
+add_executable(bfs_shortestReach bfs_shortestReach.cpp)
+add_executable(absolutePermutation absolutePermutation.cpp)
+add_executable(compiler compiler.cpp)
+add_executable(chefwork chefwork.cpp)
+add_executable(wghtnum wghtnum.cpp)
+add_executable(avgpr avgpr.cpp)
+add_executable(goodpref goodpref.cpp)
+add_executable(avgpr1 avgpr1.cpp)

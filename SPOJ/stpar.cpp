@@ -21,13 +21,21 @@ void check(stack<int> s, int k) {
     }
 
 }
+void clear(stack<int> s ){
+    while (!s.empty()){
+        s.pop();
+    }
+}
 
 int main() {
-    stack<int> s;
-    int t, a;
+
+    int t ;
     si(t);
-    int k = 1;
+
     while (t) {
+        stack<int> s;
+        int a ;
+        int k = 1;
         for (int i = 0; i < t; ++i) {
             si(a);
             if (a != k) {
@@ -37,9 +45,7 @@ int main() {
             }
         }
         check(s, k);
-        while (!s.empty()){
-            s.pop();
-        }
+        clear(s);
 
         si(t);
     }

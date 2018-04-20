@@ -20,13 +20,13 @@ C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/hangover.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/test1.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/cequ.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/stpar.dir
-C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/pt07y.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/frnd.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/lastdig.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/bubblesort.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/tricount.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/chocola.dir
+C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/jnext.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/onp.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/coef.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/dcepc202.dir
@@ -43,3 +43,6 @@ C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/bytesm2.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/shakti.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/dquery.dir
 C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/dquery1.dir
+C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/parket1.dir
+C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/pt07y.dir
+C:/Users/hp/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/mmass.dir

@@ -5,8 +5,9 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(SPOJ main.cpp absys.cpp acode.cpp acpc10a.cpp addrev.cpp aps.cpp candy.cpp candy3.cpp
         coins.cpp eights.cpp fctrl.cpp hangover.cpp willitst.cpp test1.cpp aggrcow.cpp cadydist.cpp canton.cpp
-        cequ.cpp stpar.cpp edist.cpp pt07y.cpp ae00.cpp frnd.cpp cran02.cpp prime1.cpp lastdig.cpp bubblesort.cpp
-        tricount.cpp chocola.cpp marbles.cpp coef.cpp dcepc202.cpp girlsnbs.cpp toandfro.cpp palin.cpp eqbox.cpp eboxes.cpp abcdef.cpp horrible.cpp fibosum.cpp bytesm2.cpp onp.cpp dquery.cpp dquery1.cpp shakti.cpp)
+        cequ.cpp stpar.cpp edist.cpp ae00.cpp frnd.cpp cran02.cpp prime1.cpp lastdig.cpp bubblesort.cpp
+        tricount.cpp chocola.cpp marbles.cpp coef.cpp dcepc202.cpp girlsnbs.cpp toandfro.cpp palin.cpp eqbox.cpp
+        eboxes.cpp abcdef.cpp horrible.cpp fibosum.cpp bytesm2.cpp onp.cpp dquery.cpp dquery1.cpp shakti.cpp parket1.cpp jnext.cpp pt07y.cpp mmass.cpp)
 add_executable(absys absys.cpp)
 add_executable(acode acode.cpp)
 add_executable(acpc10a acpc10a.cpp)
@@ -24,7 +25,6 @@ add_executable(cadydist cadydist.cpp)
 add_executable(canton canton.cpp)
 add_executable(cequ cequ.cpp)
 add_executable(stpar stpar.cpp)
-add_executable(pt07y pt07y.cpp)
 add_executable(ae00 ae00.cpp)
 add_executable(frnd frnd.cpp)
 add_executable(cran02 cran02.cpp)
@@ -48,5 +48,9 @@ add_executable(bytesm2 bytesm2.cpp)
 add_executable(onp onp.cpp)
 add_executable(dquery dquery.cpp)
 add_executable(dquery1 dquery1.cpp)
-
 add_executable(shakti shakti.cpp)
+add_executable(parket1 parket1.cpp)
+
+add_executable(jnext jnext.cpp)
+add_executable(pt07y pt07y.cpp)
+add_executable(mmass mmass.cpp)

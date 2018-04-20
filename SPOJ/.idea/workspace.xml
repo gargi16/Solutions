@@ -6,45 +6,48 @@
       <config projectName="SPOJ" targetName="cran02" />
       <config projectName="SPOJ" targetName="tricount" />
       <config projectName="SPOJ" targetName="candy3" />
+      <config projectName="SPOJ" targetName="test1" />
       <config projectName="SPOJ" targetName="coef" />
       <config projectName="SPOJ" targetName="dcepc202" />
       <config projectName="SPOJ" targetName="chocola" />
       <config projectName="SPOJ" targetName="canton" />
+      <config projectName="SPOJ" targetName="lastdig" />
       <config projectName="SPOJ" targetName="cadydist" />
-      <config projectName="SPOJ" targetName="marbles" />
-      <config projectName="SPOJ" targetName="toandfro" />
       <config projectName="SPOJ" targetName="bytesm2" />
-      <config projectName="SPOJ" targetName="aps" />
-      <config projectName="SPOJ" targetName="acode" />
-      <config projectName="SPOJ" targetName="girlsnbs" />
+      <config projectName="SPOJ" targetName="jnext" />
+      <config projectName="SPOJ" targetName="hangover" />
+      <config projectName="SPOJ" targetName="parket1" />
       <config projectName="SPOJ" targetName="coins" />
+      <config projectName="SPOJ" targetName="girlsnbs" />
       <config projectName="SPOJ" targetName="ae00" />
       <config projectName="SPOJ" targetName="dquery1" />
       <config projectName="SPOJ" targetName="onp" />
       <config projectName="SPOJ" targetName="shakti" />
-      <config projectName="SPOJ" targetName="SPOJ" />
       <config projectName="SPOJ" targetName="dquery" />
       <config projectName="SPOJ" targetName="palin" />
+      <config projectName="SPOJ" targetName="marbles" />
       <config projectName="SPOJ" targetName="horrible" />
+      <config projectName="SPOJ" targetName="pt07y" />
       <config projectName="SPOJ" targetName="eqbox" />
       <config projectName="SPOJ" targetName="stpar" />
       <config projectName="SPOJ" targetName="acpc10a" />
       <config projectName="SPOJ" targetName="eights" />
       <config projectName="SPOJ" targetName="willitst" />
-      <config projectName="SPOJ" targetName="fibosum" />
+      <config projectName="SPOJ" targetName="mmass" />
       <config projectName="SPOJ" targetName="addrev" />
-      <config projectName="SPOJ" targetName="aggrcow" />
+      <config projectName="SPOJ" targetName="toandfro" />
       <config projectName="SPOJ" targetName="frnd" />
-      <config projectName="SPOJ" targetName="hangover" />
+      <config projectName="SPOJ" targetName="SPOJ" />
       <config projectName="SPOJ" targetName="candy" />
       <config projectName="SPOJ" targetName="cequ" />
       <config projectName="SPOJ" targetName="bubblesort" />
-      <config projectName="SPOJ" targetName="test1" />
+      <config projectName="SPOJ" targetName="aggrcow" />
       <config projectName="SPOJ" targetName="abcdef" />
       <config projectName="SPOJ" targetName="fctrl" />
       <config projectName="SPOJ" targetName="eboxes" />
-      <config projectName="SPOJ" targetName="pt07y" />
-      <config projectName="SPOJ" targetName="lastdig" />
+      <config projectName="SPOJ" targetName="aps" />
+      <config projectName="SPOJ" targetName="fibosum" />
+      <config projectName="SPOJ" targetName="acode" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -54,55 +57,278 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383b7a3b-21a6-486d-9616-3190279d2e5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/aggrcow.cpp" afterPath="$PROJECT_DIR$/aggrcow.cpp" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects1.rsp" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects1.rsp" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/cran02.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/cran02.cpp.obj" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/objects.a" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/objects.a" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/palin.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/palin.cpp.obj" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SPOJ.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/SPOJ.cbp" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cran02.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/cran02.exe" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/palin.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/palin.exe" />
-      <change beforePath="$PROJECT_DIR$/palin.cpp" afterPath="$PROJECT_DIR$/palin.cpp" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/christmasGifts.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/christmasGifts.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/PRACTICE.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/PRACTICE.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/dquery.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/dquery.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SPOJ.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/abcdef.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/absys.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/absys.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/absys.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/absys.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acode.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/acpc10a.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/addrev.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ae00.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aggrcow.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/aps.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bubblesort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bytesm2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cadydist.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/candy3.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/canton.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cequ.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chocola.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coef.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/coins.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cran02.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dcepc202.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/dquery.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/dquery.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dquery1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eboxes.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eights.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eqbox.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fctrl.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fibosum.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/frnd.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/girlsnbs.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hangover.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/horrible.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lastdig.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/marbles.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/onp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/palin.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pt07y.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/shakti.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/stpar.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stpar.dir/stpar.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/toandfro.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tricount.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/willitst.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/willitst.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/willitst.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/willitst.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SPOJ.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SPOJ.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/abcdef.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/abcdef.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/dquery.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/dquery.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/dquery1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/dquery1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/pt07y.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/pt07y.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/stpar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/stpar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dquery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dquery.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dquery1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dquery1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt07y.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stpar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stpar.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,48 +343,7 @@
     <favorites_list name="SPOJ" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dquery.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dquery.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="acode.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acode.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shakti.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shakti.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bubblesort.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bubblesort.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -166,13 +351,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/absys.cpp" />
-        <option value="$PROJECT_DIR$/acode.cpp" />
         <option value="$PROJECT_DIR$/acpc10a.cpp" />
         <option value="$PROJECT_DIR$/addrev.cpp" />
         <option value="$PROJECT_DIR$/aps.cpp" />
@@ -188,12 +371,10 @@
         <option value="$PROJECT_DIR$/canton.cpp" />
         <option value="$PROJECT_DIR$/cequ.cpp" />
         <option value="$PROJECT_DIR$/edist.cpp" />
-        <option value="$PROJECT_DIR$/pt07y.cpp" />
         <option value="$PROJECT_DIR$/ae00.cpp" />
         <option value="$PROJECT_DIR$/frnd.cpp" />
         <option value="$PROJECT_DIR$/prime1.cpp" />
         <option value="$PROJECT_DIR$/cran02.cpp" />
-        <option value="$PROJECT_DIR$/stpar.cpp" />
         <option value="$PROJECT_DIR$/lastdig.cpp" />
         <option value="$PROJECT_DIR$/eights.cpp" />
         <option value="$PROJECT_DIR$/tricount.cpp" />
@@ -214,11 +395,18 @@
         <option value="$PROJECT_DIR$/bytesm2.cpp" />
         <option value="$PROJECT_DIR$/bytesm2_b.cpp" />
         <option value="$PROJECT_DIR$/onp.cpp" />
-        <option value="$PROJECT_DIR$/dquery.cpp" />
         <option value="$PROJECT_DIR$/dquery2.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/dquery1.cpp" />
         <option value="$PROJECT_DIR$/shakti.cpp" />
+        <option value="$PROJECT_DIR$/dquery.cpp" />
+        <option value="$PROJECT_DIR$/dquery1.cpp" />
+        <option value="$PROJECT_DIR$/parket1.cpp" />
+        <option value="$PROJECT_DIR$/gss1.cpp" />
+        <option value="$PROJECT_DIR$/aibohp.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/pt07y.cpp" />
+        <option value="$PROJECT_DIR$/jnext.cpp" />
+        <option value="$PROJECT_DIR$/stpar.cpp" />
+        <option value="$PROJECT_DIR$/mmass.cpp" />
       </list>
     </option>
   </component>
@@ -239,17 +427,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -257,19 +435,21 @@
         <subPane>
           <expand>
             <path>
-              <item name="SPOJ" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="SPOJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="SPOJ" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="F:/spoj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,188 +463,103 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.shakti">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" EXPLICIT_BUILD_TARGET_NAME="all">
-      <envs />
-    </configuration>
-    <configuration name="SPOJ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="SPOJ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="abcdef" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="abcdef" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="abcdef">
-      <envs />
-    </configuration>
-    <configuration name="absys" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="absys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="absys">
-      <envs />
-    </configuration>
-    <configuration name="acode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="acode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="acode">
-      <envs />
-    </configuration>
-    <configuration name="acpc10a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="acpc10a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="acpc10a">
-      <envs />
-    </configuration>
-    <configuration name="addrev" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="addrev" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="addrev">
-      <envs />
-    </configuration>
-    <configuration name="ae00" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="ae00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="ae00">
-      <envs />
-    </configuration>
-    <configuration name="aggrcow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="aggrcow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="aggrcow">
-      <envs />
-    </configuration>
-    <configuration name="aps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="aps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="aps">
-      <envs />
-    </configuration>
-    <configuration name="bubblesort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="bubblesort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="bubblesort">
-      <envs />
-    </configuration>
-    <configuration name="bytesm2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="bytesm2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="bytesm2">
-      <envs />
-    </configuration>
-    <configuration name="cadydist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cadydist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="cadydist">
-      <envs />
-    </configuration>
-    <configuration name="candy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="candy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="candy">
-      <envs />
-    </configuration>
-    <configuration name="candy3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="candy3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="candy3">
-      <envs />
-    </configuration>
-    <configuration name="canton" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="canton" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="canton">
-      <envs />
-    </configuration>
-    <configuration name="cequ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cequ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="cequ">
-      <envs />
-    </configuration>
-    <configuration name="chocola" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="chocola" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="chocola">
-      <envs />
-    </configuration>
-    <configuration name="coef" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="coef" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="coef">
-      <envs />
-    </configuration>
-    <configuration name="coins" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="coins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="coins">
-      <envs />
-    </configuration>
-    <configuration name="cran02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cran02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="cran02">
-      <envs />
-    </configuration>
-    <configuration name="dcepc202" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dcepc202" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="dcepc202">
-      <envs />
-    </configuration>
-    <configuration name="dquery" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dquery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="dquery">
-      <envs />
-    </configuration>
-    <configuration name="dquery1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dquery1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="dquery1">
-      <envs />
-    </configuration>
-    <configuration name="eboxes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eboxes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="eights" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eights" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="eqbox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eqbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="fctrl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="fctrl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="fibosum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="fibosum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="frnd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="frnd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="girlsnbs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="girlsnbs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="hangover" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="hangover" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="horrible" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="horrible" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="lastdig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="lastdig" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="marbles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="marbles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="onp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="onp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="palin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="palin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="pt07y" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="pt07y" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ">
-      <envs />
-    </configuration>
-    <configuration name="shakti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="shakti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="shakti">
-      <envs />
-    </configuration>
-    <configuration name="stpar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="stpar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="stpar">
-      <envs />
-    </configuration>
-    <configuration name="test1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="test1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="test1">
-      <envs />
-    </configuration>
-    <configuration name="toandfro" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="toandfro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="toandfro">
-      <envs />
-    </configuration>
-    <configuration name="tricount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="tricount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="tricount">
-      <envs />
-    </configuration>
-    <configuration name="willitst" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="willitst" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="willitst">
-      <envs />
-    </configuration>
-    <list size="44">
-      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.abcdef" />
-      <item index="2" class="java.lang.String" itemvalue="Application.absys" />
-      <item index="3" class="java.lang.String" itemvalue="Application.acode" />
-      <item index="4" class="java.lang.String" itemvalue="Application.acpc10a" />
-      <item index="5" class="java.lang.String" itemvalue="Application.addrev" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ae00" />
-      <item index="7" class="java.lang.String" itemvalue="Application.aggrcow" />
-      <item index="8" class="java.lang.String" itemvalue="Application.aps" />
-      <item index="9" class="java.lang.String" itemvalue="Application.bubblesort" />
-      <item index="10" class="java.lang.String" itemvalue="Application.bytesm2" />
-      <item index="11" class="java.lang.String" itemvalue="Application.cadydist" />
-      <item index="12" class="java.lang.String" itemvalue="Application.candy" />
-      <item index="13" class="java.lang.String" itemvalue="Application.candy3" />
-      <item index="14" class="java.lang.String" itemvalue="Application.canton" />
-      <item index="15" class="java.lang.String" itemvalue="Application.cequ" />
-      <item index="16" class="java.lang.String" itemvalue="Application.chocola" />
-      <item index="17" class="java.lang.String" itemvalue="Application.coef" />
-      <item index="18" class="java.lang.String" itemvalue="Application.coins" />
-      <item index="19" class="java.lang.String" itemvalue="Application.cran02" />
-      <item index="20" class="java.lang.String" itemvalue="Application.dcepc202" />
-      <item index="21" class="java.lang.String" itemvalue="Application.dquery" />
-      <item index="22" class="java.lang.String" itemvalue="Application.dquery1" />
-      <item index="23" class="java.lang.String" itemvalue="Application.eboxes" />
-      <item index="24" class="java.lang.String" itemvalue="Application.eights" />
-      <item index="25" class="java.lang.String" itemvalue="Application.eqbox" />
-      <item index="26" class="java.lang.String" itemvalue="Application.fctrl" />
-      <item index="27" class="java.lang.String" itemvalue="Application.fibosum" />
-      <item index="28" class="java.lang.String" itemvalue="Application.frnd" />
-      <item index="29" class="java.lang.String" itemvalue="Application.girlsnbs" />
-      <item index="30" class="java.lang.String" itemvalue="Application.hangover" />
-      <item index="31" class="java.lang.String" itemvalue="Application.horrible" />
-      <item index="32" class="java.lang.String" itemvalue="Application.lastdig" />
-      <item index="33" class="java.lang.String" itemvalue="Application.marbles" />
-      <item index="34" class="java.lang.String" itemvalue="Application.onp" />
-      <item index="35" class="java.lang.String" itemvalue="Application.palin" />
-      <item index="36" class="java.lang.String" itemvalue="Application.pt07y" />
-      <item index="37" class="java.lang.String" itemvalue="Application.shakti" />
-      <item index="38" class="java.lang.String" itemvalue="Application.SPOJ" />
-      <item index="39" class="java.lang.String" itemvalue="Application.stpar" />
-      <item index="40" class="java.lang.String" itemvalue="Application.test1" />
-      <item index="41" class="java.lang.String" itemvalue="Application.toandfro" />
-      <item index="42" class="java.lang.String" itemvalue="Application.tricount" />
-      <item index="43" class="java.lang.String" itemvalue="Application.willitst" />
+  <component name="RunManager" selected="Application.mmass">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="SPOJ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="SPOJ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="abcdef" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="abcdef" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="absys" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="absys" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="acode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="acode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="acpc10a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="acpc10a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="addrev" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="addrev" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="ae00" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="ae00" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="aggrcow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="aggrcow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="aps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="aps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="bubblesort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="bubblesort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="bytesm2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="bytesm2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="cadydist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cadydist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="candy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="candy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="candy3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="candy3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="canton" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="canton" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="cequ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cequ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="chocola" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="chocola" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="coef" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="coef" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="coins" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="coins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="cran02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="cran02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="dcepc202" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dcepc202" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="dquery" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dquery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="dquery1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="dquery1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="eboxes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eboxes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="eights" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eights" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="eqbox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="eqbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="fctrl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="fctrl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="fibosum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="fibosum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="frnd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="frnd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="girlsnbs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="girlsnbs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="hangover" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="hangover" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="horrible" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="horrible" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="jnext" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="jnext" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="lastdig" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="lastdig" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="marbles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="marbles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="mmass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="mmass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="mmass" />
+    <configuration name="onp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="onp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="palin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="palin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="parket1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="parket1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="pt07y" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="pt07y" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="shakti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="shakti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="SPOJ" />
+    <configuration name="stpar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="stpar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="stpar" />
+    <configuration name="test1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="test1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="test1" />
+    <configuration name="toandfro" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="toandfro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="toandfro" />
+    <configuration name="tricount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="tricount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="tricount" />
+    <configuration name="willitst" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SPOJ" TARGET_NAME="willitst" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SPOJ" RUN_TARGET_NAME="willitst" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.abcdef" />
+      <item itemvalue="Application.absys" />
+      <item itemvalue="Application.acode" />
+      <item itemvalue="Application.acpc10a" />
+      <item itemvalue="Application.addrev" />
+      <item itemvalue="Application.ae00" />
+      <item itemvalue="Application.aggrcow" />
+      <item itemvalue="Application.aps" />
+      <item itemvalue="Application.bubblesort" />
+      <item itemvalue="Application.bytesm2" />
+      <item itemvalue="Application.cadydist" />
+      <item itemvalue="Application.candy" />
+      <item itemvalue="Application.candy3" />
+      <item itemvalue="Application.canton" />
+      <item itemvalue="Application.cequ" />
+      <item itemvalue="Application.chocola" />
+      <item itemvalue="Application.coef" />
+      <item itemvalue="Application.coins" />
+      <item itemvalue="Application.cran02" />
+      <item itemvalue="Application.dcepc202" />
+      <item itemvalue="Application.dquery" />
+      <item itemvalue="Application.dquery1" />
+      <item itemvalue="Application.eboxes" />
+      <item itemvalue="Application.eights" />
+      <item itemvalue="Application.eqbox" />
+      <item itemvalue="Application.fctrl" />
+      <item itemvalue="Application.fibosum" />
+      <item itemvalue="Application.frnd" />
+      <item itemvalue="Application.girlsnbs" />
+      <item itemvalue="Application.hangover" />
+      <item itemvalue="Application.horrible" />
+      <item itemvalue="Application.jnext" />
+      <item itemvalue="Application.lastdig" />
+      <item itemvalue="Application.marbles" />
+      <item itemvalue="Application.mmass" />
+      <item itemvalue="Application.onp" />
+      <item itemvalue="Application.palin" />
+      <item itemvalue="Application.parket1" />
+      <item itemvalue="Application.pt07y" />
+      <item itemvalue="Application.shakti" />
+      <item itemvalue="Application.SPOJ" />
+      <item itemvalue="Application.stpar" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.toandfro" />
+      <item itemvalue="Application.tricount" />
+      <item itemvalue="Application.willitst" />
     </list>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -493,11 +588,21 @@
       <workItem from="1521660829638" duration="713000" />
       <workItem from="1521822704779" duration="842000" />
       <workItem from="1521871657280" duration="396000" />
+      <workItem from="1522305617067" duration="156000" />
+      <workItem from="1522484453926" duration="2694000" />
+      <workItem from="1522660453486" duration="1167000" />
+      <workItem from="1523040250667" duration="2529000" />
+      <workItem from="1523101504799" duration="3081000" />
+      <workItem from="1523105670081" duration="936000" />
+      <workItem from="1523106628368" duration="6182000" />
+      <workItem from="1523161621606" duration="3012000" />
+      <workItem from="1523213092346" duration="1855000" />
+      <workItem from="1523537986446" duration="111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85724000" />
+    <option name="totallyTimeSpent" value="107447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,46 +615,45 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25297618" sideWeight="0.50851583" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4939173" visible="true" weight="0.25223213" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5029762" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49702382" weight="0.32843137" />
+      <window_info id="Structure" order="1" sideWeight="0.5060827" side_tool="true" weight="0.25223213" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
+      <window_info id="Favorites" order="2" sideWeight="0.50851583" side_tool="true" weight="0.25297618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32843137" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.4914842" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25297618" sideWeight="0.50851583" order="2" side_tool="true" content_ui="tabs" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32913387" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.25297618" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49702382" weight="0.32843137" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5029762" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32843137" />
+      <window_info id="Favorites" order="2" sideWeight="0.50851583" side_tool="true" weight="0.25297618" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,44 +662,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fctrl.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp" />
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pt07y.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edist.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cran02.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -609,49 +685,28 @@
     <entry file="file://$PROJECT_DIR$/canton.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lastdig.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eights.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tricount.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cadydist.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prime1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stpar.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -665,14 +720,14 @@
     <entry file="file://$PROJECT_DIR$/marbles.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dcepc202.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -686,98 +741,61 @@
     <entry file="file://$PROJECT_DIR$/aps.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
-          <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9034">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/willitst.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toandfro.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-9034" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/addrev.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acpc10a.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ae00.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hangover.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chocola.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/lib/gcc/i686-w64-mingw32/7.2.0/include/c++/bits/basic_string.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
-          <caret line="795" column="6" lean-forward="false" selection-start-line="795" selection-start-column="6" selection-end-line="795" selection-end-column="6" />
+          <caret line="795" column="6" selection-start-line="795" selection-start-column="6" selection-end-line="795" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/girlsnbs.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -791,118 +809,196 @@
     <entry file="file://$PROJECT_DIR$/eqbox.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abcdef.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/palin.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibosum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aggrcow.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/horrible.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
-          <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coins.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bytesm2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bytesm2_b.cpp" />
-    <entry file="file://$PROJECT_DIR$/onp.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/absys.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dquery2.cpp" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/bubblesort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dquery1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dquery.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acode.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="442">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aibohp.cpp" />
+    <entry file="file://$PROJECT_DIR$/gss1.cpp" />
+    <entry file="file://$PROJECT_DIR$/willitst.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tricount.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toandfro.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shakti.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bubblesort.cpp">
+    <entry file="file://$PROJECT_DIR$/prime1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palin.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coins.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibosum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dquery1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dquery.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/absys.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt07y.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parket1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stpar.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jnext.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mmass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abcdef.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
