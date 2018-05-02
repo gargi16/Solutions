@@ -1,0 +1,14 @@
+x= 0 : 1 :10 ;
+y= x.^3 -5;
+subplot(2,2,1);
+plot(x, y, '--g' , 'LineWidth' , 2 );
+t = x.^2 +2 ;
+subplot(2,2,2);
+plot(x,t , 'r') ;
+grid;
+subplot(2,2,3);
+plot(x,y,x,t);
+subplot(2,2,4);
+a = linspace(0.1, 60, 1000);
+b = 3.^(-0.2*a+10)-5;
+semilogx(a,b);

@@ -1,0 +1,22 @@
+clc;
+clear all;
+close all;
+
+[t y]= ode45('f', [0 1], [1.5, 1.5]);
+%plot(t, y(:,1),t,y(:,2),'-');
+plot(y(:,1),y(:,2));
+hold on;
+[t y]= ode45('f', [0 1], [1.5,1]);
+plot(y(:,1),y(:,2));
+hold on;
+[t y]= ode45('f', [0 1], [1.5,-1.5]);
+plot(y(:,1),y(:,2));
+hold on;
+[t y]= ode45('f', [0 1], [-1.5,1.5]);
+plot(y(:,1),y(:,2));
+hold on;
+[t y]= ode45('f', [0 1], [-1.5,-1.5]);
+plot(y(:,1),y(:,2));
+hold on;
+[t y]= ode45('f', [0 1], [-1.5,1]);
+plot(y(:,1),y(:,2));
