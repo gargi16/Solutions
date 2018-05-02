@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/CLionProjects/PRACTICE/recycledNumbers.cpp
+math.h
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+algorithm
+-
+unordered_map
+-
+

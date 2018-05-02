@@ -7,7 +7,7 @@ add_executable(PRACTICE main.cpp dfs.cpp dp1a.cpp oddEvenArrays.cpp
         cardremoval.cpp stringencryption.cpp rotationqueries.cpp xorqueries.cpp
         xorqueries1.cpp tlg.cpp voters.cpp ZCO12002.cpp ZCO14003.cpp
         nCr.cpp mergeSort.cpp alice.cpp INOI1201.cpp COOK82C.cpp ZCO14002.cpp ZCO12004.cpp
-        INOI1301.cpp minimumJumps.cpp ZCO15002.cpp ZCO14001.cpp pcycle.cpp INOI1601.cpp INOI1601A.cpp countingLeaf.cpp coinChange.cpp bfs_shortestReach.cpp absolutePermutation.cpp gridSearch.cpp compiler.cpp chefwork.cpp wghtnum.cpp avgpr.cpp goodpref.cpp avgpr1.cpp goodpref1.cpp reverseLL.cpp)
+        INOI1301.cpp minimumJumps.cpp ZCO15002.cpp ZCO14001.cpp pcycle.cpp INOI1601.cpp INOI1601A.cpp countingLeaf.cpp coinChange.cpp bfs_shortestReach.cpp absolutePermutation.cpp gridSearch.cpp compiler.cpp chefwork.cpp wghtnum.cpp avgpr.cpp goodpref.cpp avgpr1.cpp goodpref1.cpp reverseLL.cpp recycledNumbers.cpp)
 add_executable(dfs dfs.cpp)
 add_executable(dp1a dp1a.cpp)
 add_executable(oddEvenArrays oddEvenArrays.cpp)
@@ -42,3 +42,4 @@ add_executable(wghtnum wghtnum.cpp)
 add_executable(avgpr avgpr.cpp)
 add_executable(goodpref goodpref.cpp)
 add_executable(avgpr1 avgpr1.cpp)
+add_executable(recycledNumbers recycledNumbers.cpp)

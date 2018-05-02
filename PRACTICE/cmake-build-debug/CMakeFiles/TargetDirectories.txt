@@ -34,4 +34,5 @@ C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

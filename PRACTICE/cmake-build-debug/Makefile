@@ -564,6 +564,19 @@ avgpr/fast:
 	$(MAKE) -f CMakeFiles\avgpr.dir\build.make CMakeFiles/avgpr.dir/build
 .PHONY : avgpr/fast
 
+#=============================================================================
+# Target rules for targets named recycledNumbers
+
+# Build rule for target.
+recycledNumbers: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 recycledNumbers
+.PHONY : recycledNumbers
+
+# fast build rule for target.
+recycledNumbers/fast:
+	$(MAKE) -f CMakeFiles\recycledNumbers.dir\build.make CMakeFiles/recycledNumbers.dir/build
+.PHONY : recycledNumbers/fast
+
 COOK82C.obj: COOK82C.cpp.obj
 
 .PHONY : COOK82C.obj
@@ -1512,6 +1525,36 @@ pcycle.cpp.s:
 	$(MAKE) -f CMakeFiles\pcycle.dir\build.make CMakeFiles/pcycle.dir/pcycle.cpp.s
 .PHONY : pcycle.cpp.s
 
+recycledNumbers.obj: recycledNumbers.cpp.obj
+
+.PHONY : recycledNumbers.obj
+
+# target to build an object file
+recycledNumbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/recycledNumbers.cpp.obj
+	$(MAKE) -f CMakeFiles\recycledNumbers.dir\build.make CMakeFiles/recycledNumbers.dir/recycledNumbers.cpp.obj
+.PHONY : recycledNumbers.cpp.obj
+
+recycledNumbers.i: recycledNumbers.cpp.i
+
+.PHONY : recycledNumbers.i
+
+# target to preprocess a source file
+recycledNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/recycledNumbers.cpp.i
+	$(MAKE) -f CMakeFiles\recycledNumbers.dir\build.make CMakeFiles/recycledNumbers.dir/recycledNumbers.cpp.i
+.PHONY : recycledNumbers.cpp.i
+
+recycledNumbers.s: recycledNumbers.cpp.s
+
+.PHONY : recycledNumbers.s
+
+# target to generate assembly for a file
+recycledNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/recycledNumbers.cpp.s
+	$(MAKE) -f CMakeFiles\recycledNumbers.dir\build.make CMakeFiles/recycledNumbers.dir/recycledNumbers.cpp.s
+.PHONY : recycledNumbers.cpp.s
+
 reverseLL.obj: reverseLL.cpp.obj
 
 .PHONY : reverseLL.obj
@@ -1788,6 +1831,7 @@ help:
 	@echo ... wghtnum
 	@echo ... avgpr
 	@echo ... edit_cache
+	@echo ... recycledNumbers
 	@echo ... rebuild_cache
 	@echo ... COOK82C.obj
 	@echo ... COOK82C.i
@@ -1885,6 +1929,9 @@ help:
 	@echo ... pcycle.obj
 	@echo ... pcycle.i
 	@echo ... pcycle.s
+	@echo ... recycledNumbers.obj
+	@echo ... recycledNumbers.i
+	@echo ... recycledNumbers.s
 	@echo ... reverseLL.obj
 	@echo ... reverseLL.i
 	@echo ... reverseLL.s

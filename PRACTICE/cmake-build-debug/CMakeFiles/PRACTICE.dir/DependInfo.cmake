@@ -36,6 +36,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/hp/CLionProjects/PRACTICE/nCr.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/nCr.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/oddEvenArrays.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/oddEvenArrays.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/pcycle.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/pcycle.cpp.obj"
+  "C:/Users/hp/CLionProjects/PRACTICE/recycledNumbers.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/recycledNumbers.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/reverseLL.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/reverseLL.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/rotationqueries.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/rotationqueries.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/stringencryption.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/stringencryption.cpp.obj"
