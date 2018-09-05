@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/CLionProjects/Worksheets/W2_8.cpp
+bits/stdc++.h
+-
+linkedl.h
+C:/Users/hp/CLionProjects/Worksheets/linkedl.h
+
+C:/Users/hp/CLionProjects/Worksheets/linkedl.h
+bits/stdc++.h
+-
+

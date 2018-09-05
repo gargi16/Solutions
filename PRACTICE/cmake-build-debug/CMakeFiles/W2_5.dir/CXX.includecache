@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/CLionProjects/PRACTICE/W2_5.cpp
+bits/stdc++.h
+-
+linkedList.h
+C:/Users/hp/CLionProjects/PRACTICE/linkedList.h
+
+C:/Users/hp/CLionProjects/PRACTICE/linkedList.h
+bits/stdc++.h
+-
+
