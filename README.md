@@ -1,2 +1,3 @@
 # Solutions
-My solutions to programming problems on codechef and spoj.
+My solutions to programming problems on codechef, spoj and hackerrank.<br/> 
+
