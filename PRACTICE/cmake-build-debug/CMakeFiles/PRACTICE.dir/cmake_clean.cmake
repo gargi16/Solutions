@@ -80,6 +80,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/PRACTICE.dir/W2_7.cpp.obj"
   "CMakeFiles/PRACTICE.dir/W2_9.cpp.obj"
   "CMakeFiles/PRACTICE.dir/W1_3a.cpp.obj"
+  "CMakeFiles/PRACTICE.dir/chserve.cpp.obj"
   "PRACTICE.pdb"
   "PRACTICE.exe"
   "PRACTICE.exe.manifest"

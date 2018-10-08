@@ -13,6 +13,7 @@ C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/Prog2_5.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/W1_5.dir
+C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/chserve.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir
 C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/W2_3.dir

@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/hp/CLionProjects/Worksheets/W3_5.cpp" "C:/Users/hp/CLionProjects/Worksheets/cmake-build-debug/CMakeFiles/Worksheets.dir/W3_5.cpp.obj"
   "C:/Users/hp/CLionProjects/Worksheets/W3_7.cpp" "C:/Users/hp/CLionProjects/Worksheets/cmake-build-debug/CMakeFiles/Worksheets.dir/W3_7.cpp.obj"
   "C:/Users/hp/CLionProjects/Worksheets/W3_8.cpp" "C:/Users/hp/CLionProjects/Worksheets/cmake-build-debug/CMakeFiles/Worksheets.dir/W3_8.cpp.obj"
+  "C:/Users/hp/CLionProjects/Worksheets/W4_1.cpp" "C:/Users/hp/CLionProjects/Worksheets/cmake-build-debug/CMakeFiles/Worksheets.dir/W4_1.cpp.obj"
   "C:/Users/hp/CLionProjects/Worksheets/main.cpp" "C:/Users/hp/CLionProjects/Worksheets/cmake-build-debug/CMakeFiles/Worksheets.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

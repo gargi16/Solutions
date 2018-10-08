@@ -11,9 +11,10 @@ add_executable(PRACTICE main.cpp dfs.cpp dp1a.cpp oddEvenArrays.cpp
         coinChange.cpp bfs_shortestReach.cpp absolutePermutation.cpp gridSearch.cpp compiler.cpp chefwork.cpp wghtnum.cpp
         avgpr.cpp goodpref.cpp avgpr1.cpp goodpref1.cpp recycledNumbers.cpp rd19.cpp recursiveSum.cpp shortUrl.cpp
         maxSumSubarr.cpp longestPalinSubstr.cpp removeElement.cpp naichef.cpp binshffl.cpp arrayrotation.cpp n_C_r.cpp
-        stringPermutation.cpp stringPerm1.cpp redundantBraces.cpp Prog2_1.cpp Prog2_2.cpp Prog2_3.cpp Prog2_4.cpp Prog2_5.cpp
-        Prog3_1.cpp Prog3_2.cpp Prog3_3.cpp W1_1.cpp W1_2.cpp W1_3.cpp W1_4.cpp W1_7.cpp bfs.cpp editDistance.cpp W1_5.cpp
-        W1_6.cpp W1_8.cpp W1_9.cpp W1_11.cpp W1_10.cpp W2_1.cpp W2_3.cpp W2_5.cpp linkedList.h W2_6.cpp W2_7.cpp W2_9.cpp W1_3a.cpp)
+        stringPermutation.cpp stringPerm1.cpp redundantBraces.cpp Prog2_1.cpp Prog2_2.cpp Prog2_3.cpp Prog2_4.cpp
+        Prog2_5.cpp Prog3_1.cpp Prog3_2.cpp Prog3_3.cpp W1_1.cpp W1_2.cpp W1_3.cpp W1_4.cpp W1_7.cpp bfs.cpp
+        editDistance.cpp W1_5.cpp W1_6.cpp W1_8.cpp W1_9.cpp W1_11.cpp W1_10.cpp W2_1.cpp W2_3.cpp W2_5.cpp
+        linkedList.h W2_6.cpp W2_7.cpp W2_9.cpp W1_3a.cpp chserve.cpp)
 add_executable(dfs dfs.cpp)
 add_executable(dp1a dp1a.cpp)
 add_executable(oddEvenArrays oddEvenArrays.cpp)
@@ -90,3 +91,4 @@ add_executable(W2_6 W2_6.cpp)
 add_executable(W2_7 W2_7.cpp)
 add_executable(W2_9 W2_9.cpp)
 add_executable(W1_3a W1_3a.cpp)
+add_executable(chserve chserve.cpp)

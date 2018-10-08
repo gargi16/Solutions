@@ -144,7 +144,7 @@ clean: CMakeFiles/W2_10.dir/clean
 CMakeFiles/main.dir/all:
 	$(MAKE) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/depend
 	$(MAKE) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles --progress-num=57,58 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles --progress-num=58,59 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Include target in all.
@@ -218,7 +218,7 @@ clean: CMakeFiles/W2_1.dir/clean
 CMakeFiles/Worksheets.dir/all:
 	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/depend
 	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56 "Built target Worksheets"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles --progress-num=37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57 "Built target Worksheets"
 .PHONY : CMakeFiles/Worksheets.dir/all
 
 # Include target in all.
@@ -228,7 +228,7 @@ all: CMakeFiles/Worksheets.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Worksheets.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles 20
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles 21
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Worksheets.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\CLionProjects\Worksheets\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Worksheets.dir/rule

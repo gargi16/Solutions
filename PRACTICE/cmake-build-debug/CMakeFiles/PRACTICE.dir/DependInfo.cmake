@@ -51,6 +51,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/hp/CLionProjects/PRACTICE/binshffl.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/binshffl.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/cardremoval.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/cardremoval.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/chefwork.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/chefwork.cpp.obj"
+  "C:/Users/hp/CLionProjects/PRACTICE/chserve.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/chserve.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/coinChange.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/coinChange.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/compiler.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/compiler.cpp.obj"
   "C:/Users/hp/CLionProjects/PRACTICE/countingLeaf.cpp" "C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/countingLeaf.cpp.obj"
