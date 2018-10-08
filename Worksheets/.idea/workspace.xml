@@ -2,26 +2,26 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Worksheets" targetName="W2_9" />
-      <config projectName="Worksheets" targetName="W3_8" />
-      <config projectName="Worksheets" targetName="main" />
+      <config projectName="Worksheets" targetName="W2_3" />
+      <config projectName="Worksheets" targetName="W2_2" />
+      <config projectName="Worksheets" targetName="W2_1" />
+      <config projectName="Worksheets" targetName="W3_1" />
+      <config projectName="Worksheets" targetName="W3_3n" />
+      <config projectName="Worksheets" targetName="W3_3" />
       <config projectName="Worksheets" targetName="W2_10" />
       <config projectName="Worksheets" targetName="Worksheets" />
-      <config projectName="Worksheets" targetName="W3_3n" />
-      <config projectName="Worksheets" targetName="W2_4" />
-      <config projectName="Worksheets" targetName="W3_3" />
-      <config projectName="Worksheets" targetName="W2_3" />
-      <config projectName="Worksheets" targetName="W3_2" />
-      <config projectName="Worksheets" targetName="W2_2" />
-      <config projectName="Worksheets" targetName="W3_1" />
-      <config projectName="Worksheets" targetName="W2_1" />
-      <config projectName="Worksheets" targetName="W2_8" />
-      <config projectName="Worksheets" targetName="W3_7" />
-      <config projectName="Worksheets" targetName="W2_7" />
-      <config projectName="Worksheets" targetName="W2_6" />
-      <config projectName="Worksheets" targetName="W3_5" />
-      <config projectName="Worksheets" targetName="W2_5" />
       <config projectName="Worksheets" targetName="W3_4" />
+      <config projectName="Worksheets" targetName="W3_5" />
+      <config projectName="Worksheets" targetName="W2_6" />
+      <config projectName="Worksheets" targetName="W3_2" />
+      <config projectName="Worksheets" targetName="main" />
+      <config projectName="Worksheets" targetName="W2_7" />
+      <config projectName="Worksheets" targetName="W2_9" />
+      <config projectName="Worksheets" targetName="W2_8" />
+      <config projectName="Worksheets" targetName="W3_8" />
+      <config projectName="Worksheets" targetName="W3_7" />
+      <config projectName="Worksheets" targetName="W2_5" />
+      <config projectName="Worksheets" targetName="W2_4" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -31,173 +31,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a94721a-9a59-4a58-af88-ceee341676e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/COOK82C.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1201.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1301.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/INOI1601A.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/PRACTICE.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12002.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO12004.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14001.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14002.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO14003.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/ZCO15002.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/absolutePermutation.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/avgpr1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/bfs_shortestReach.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/cardremoval.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/chefwork.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/coinChange.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/compiler.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/countingLeaf.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dfs.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/dp1a.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/goodpref.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/mergeSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/minimumJumps.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/nCr.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/oddEvenArrays.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/pcycle.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/recycledNumbers.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/rotationqueries.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/stringencryption.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/tlg.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/voters.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/wghtnum.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/CMakeFiles/xorqueries1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/PRACTICE.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/PRACTICE.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/compiler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/compiler.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/nCr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/cmake-build-debug/nCr.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/reverseLL.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPOJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SPOJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Worksheets.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Worksheets.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Worksheets.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,30 +60,38 @@
     <session id="152570963">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.93" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="21" />
-          <entry key="h" value="4" />
+          <entry key="cpp" value="37" />
+          <entry key="h" value="5" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="25" />
+          <entry key="ObjectiveC" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="497" />
+          <entry key="cpp" value="594" />
           <entry key="h" value="10" />
           <entry key="txt" value="20" />
         </counts>
@@ -242,29 +99,16 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="20" />
-          <entry key="ObjectiveC" value="507" />
+          <entry key="ObjectiveC" value="604" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/W3_8.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/W3_1.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="89" selection-start-line="89" selection-end-line="89" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/W4_1.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -295,6 +139,8 @@
         <option value="$PROJECT_DIR$/W3_5.cpp" />
         <option value="$PROJECT_DIR$/W3_7.cpp" />
         <option value="$PROJECT_DIR$/W3_8.cpp" />
+        <option value="$PROJECT_DIR$/tree.cpp" />
+        <option value="$PROJECT_DIR$/W4_1.cpp" />
       </list>
     </option>
   </component>
@@ -318,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,7 +176,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.W3_8">
+  <component name="RunManager" selected="Application.W2_10">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -493,17 +339,26 @@
       <workItem from="1535599519351" duration="4830000" />
       <workItem from="1535642437250" duration="116000" />
       <workItem from="1536161850494" duration="3805000" />
+      <workItem from="1536167514011" duration="1567000" />
+      <workItem from="1536212025059" duration="1914000" />
+      <workItem from="1536688560122" duration="1481000" />
+      <workItem from="1536773449373" duration="1272000" />
+      <workItem from="1537151818777" duration="64000" />
+      <workItem from="1537152377019" duration="2147000" />
+      <workItem from="1538026916337" duration="136000" />
+      <workItem from="1538027699222" duration="1204000" />
+      <workItem from="1538747569770" duration="130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11890000" />
+    <option name="totallyTimeSpent" value="21805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2912254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -561,34 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W2_9.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W2_10.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W2_8.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W2_1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/W2_3.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -617,20 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W2_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedl.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -645,23 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3_3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/W3_3n.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/W3_4.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -669,13 +465,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3_5.cpp">
+    <entry file="file://$PROJECT_DIR$/W3_8.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#41#58#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3_3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3_3n.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-889" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W3_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -686,19 +505,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3_8.cpp">
+    <entry file="file://$PROJECT_DIR$/W3_5.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="379">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/W3_1.cpp">
+    <entry file="file://$PROJECT_DIR$/W2_8.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        <state relative-caret-position="1241">
+          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree.cpp" />
+    <entry file="file://$PROJECT_DIR$/linkedl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2_9.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/W4_1.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

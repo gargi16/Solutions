@@ -3,7 +3,7 @@ project(Worksheets)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Worksheets main.cpp W2_1.cpp W2_2.cpp linkedl.h W2_3.cpp W2_4.cpp W2_5.cpp W2_6.cpp W2_7.cpp W2_8.cpp W2_9.cpp W2_10.cpp W3_1.cpp W3_2.cpp W3_3.cpp W3_3n.cpp W3_4.cpp W3_5.cpp W3_7.cpp W3_8.cpp)
+add_executable(Worksheets main.cpp W2_1.cpp W2_2.cpp linkedl.h W2_3.cpp W2_4.cpp W2_5.cpp W2_6.cpp W2_7.cpp W2_8.cpp W2_9.cpp W2_10.cpp W3_1.cpp W3_2.cpp W3_3.cpp W3_3n.cpp W3_4.cpp W3_5.cpp W3_7.cpp W3_8.cpp W4_1.cpp)
 
 add_executable(W2_1 W2_1.cpp)
 add_executable(main main.cpp)

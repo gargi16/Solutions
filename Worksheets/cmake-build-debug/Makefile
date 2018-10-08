@@ -909,6 +909,33 @@ W3_8.cpp.s:
 	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/W3_8.cpp.s
 .PHONY : W3_8.cpp.s
 
+W4_1.obj: W4_1.cpp.obj
+
+.PHONY : W4_1.obj
+
+# target to build an object file
+W4_1.cpp.obj:
+	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/W4_1.cpp.obj
+.PHONY : W4_1.cpp.obj
+
+W4_1.i: W4_1.cpp.i
+
+.PHONY : W4_1.i
+
+# target to preprocess a source file
+W4_1.cpp.i:
+	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/W4_1.cpp.i
+.PHONY : W4_1.cpp.i
+
+W4_1.s: W4_1.cpp.s
+
+.PHONY : W4_1.s
+
+# target to generate assembly for a file
+W4_1.cpp.s:
+	$(MAKE) -f CMakeFiles\Worksheets.dir\build.make CMakeFiles/Worksheets.dir/W4_1.cpp.s
+.PHONY : W4_1.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -1021,6 +1048,9 @@ help:
 	@echo ... W3_8.obj
 	@echo ... W3_8.i
 	@echo ... W3_8.s
+	@echo ... W4_1.obj
+	@echo ... W4_1.i
+	@echo ... W4_1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -647,6 +647,48 @@
 					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="chserve">
+				<Option output="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/chserve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 chserve"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chserve/fast">
+				<Option output="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/chserve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.2.0-posix-dwarf-rt_v5-rev1/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 chserve/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="ZCO14001">
 				<Option output="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug/ZCO14001.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/hp/CLionProjects/PRACTICE/cmake-build-debug"/>
@@ -3458,6 +3500,10 @@
 		<Unit filename="C:/Users/hp/CLionProjects/PRACTICE/chefwork.cpp">
 			<Option target="PRACTICE"/>
 			<Option target="chefwork"/>
+		</Unit>
+		<Unit filename="C:/Users/hp/CLionProjects/PRACTICE/chserve.cpp">
+			<Option target="PRACTICE"/>
+			<Option target="chserve"/>
 		</Unit>
 		<Unit filename="C:/Users/hp/CLionProjects/PRACTICE/coinChange.cpp">
 			<Option target="PRACTICE"/>

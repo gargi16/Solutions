@@ -305,6 +305,19 @@ W1_5/fast:
 .PHONY : W1_5/fast
 
 #=============================================================================
+# Target rules for targets named chserve
+
+# Build rule for target.
+chserve: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 chserve
+.PHONY : chserve
+
+# fast build rule for target.
+chserve/fast:
+	$(MAKE) -f CMakeFiles\chserve.dir\build.make CMakeFiles/chserve.dir/build
+.PHONY : chserve/fast
+
+#=============================================================================
 # Target rules for targets named ZCO14001
 
 # Build rule for target.
@@ -2517,6 +2530,36 @@ chefwork.cpp.s:
 	$(MAKE) -f CMakeFiles\chefwork.dir\build.make CMakeFiles/chefwork.dir/chefwork.cpp.s
 .PHONY : chefwork.cpp.s
 
+chserve.obj: chserve.cpp.obj
+
+.PHONY : chserve.obj
+
+# target to build an object file
+chserve.cpp.obj:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/chserve.cpp.obj
+	$(MAKE) -f CMakeFiles\chserve.dir\build.make CMakeFiles/chserve.dir/chserve.cpp.obj
+.PHONY : chserve.cpp.obj
+
+chserve.i: chserve.cpp.i
+
+.PHONY : chserve.i
+
+# target to preprocess a source file
+chserve.cpp.i:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/chserve.cpp.i
+	$(MAKE) -f CMakeFiles\chserve.dir\build.make CMakeFiles/chserve.dir/chserve.cpp.i
+.PHONY : chserve.cpp.i
+
+chserve.s: chserve.cpp.s
+
+.PHONY : chserve.s
+
+# target to generate assembly for a file
+chserve.cpp.s:
+	$(MAKE) -f CMakeFiles\PRACTICE.dir\build.make CMakeFiles/PRACTICE.dir/chserve.cpp.s
+	$(MAKE) -f CMakeFiles\chserve.dir\build.make CMakeFiles/chserve.dir/chserve.cpp.s
+.PHONY : chserve.cpp.s
+
 coinChange.obj: coinChange.cpp.obj
 
 .PHONY : coinChange.obj
@@ -3546,6 +3589,7 @@ help:
 	@echo ... cardremoval
 	@echo ... rotationqueries
 	@echo ... W1_5
+	@echo ... chserve
 	@echo ... ZCO14001
 	@echo ... stringencryption
 	@echo ... W2_3
@@ -3751,6 +3795,9 @@ help:
 	@echo ... chefwork.obj
 	@echo ... chefwork.i
 	@echo ... chefwork.s
+	@echo ... chserve.obj
+	@echo ... chserve.i
+	@echo ... chserve.s
 	@echo ... coinChange.obj
 	@echo ... coinChange.i
 	@echo ... coinChange.s

@@ -18,6 +18,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Worksheets.dir/W3_5.cpp.obj"
   "CMakeFiles/Worksheets.dir/W3_7.cpp.obj"
   "CMakeFiles/Worksheets.dir/W3_8.cpp.obj"
+  "CMakeFiles/Worksheets.dir/W4_1.cpp.obj"
   "Worksheets.pdb"
   "Worksheets.exe"
   "Worksheets.exe.manifest"

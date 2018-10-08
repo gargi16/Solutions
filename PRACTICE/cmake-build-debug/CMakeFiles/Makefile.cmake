@@ -32,10 +32,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/win/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/win/share/cmake-3.12/Modules/ProcessorCount.cmake"
   "../CMakeLists.txt"
-  "CMakeFiles/3.12.0/CMakeCCompiler.cmake"
-  "CMakeFiles/3.12.0/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.12.0/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.12.0/CMakeSystem.cmake"
+  "CMakeFiles/3.12.2/CMakeCCompiler.cmake"
+  "CMakeFiles/3.12.2/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.12.2/CMakeRCCompiler.cmake"
+  "CMakeFiles/3.12.2/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:
@@ -66,6 +66,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/cardremoval.dir/DependInfo.cmake"
   "CMakeFiles/rotationqueries.dir/DependInfo.cmake"
   "CMakeFiles/W1_5.dir/DependInfo.cmake"
+  "CMakeFiles/chserve.dir/DependInfo.cmake"
   "CMakeFiles/ZCO14001.dir/DependInfo.cmake"
   "CMakeFiles/stringencryption.dir/DependInfo.cmake"
   "CMakeFiles/W2_3.dir/DependInfo.cmake"
